@@ -1,0 +1,13 @@
+C:\Users\aiman.shariff\source\repos\DelegateInvocation\DelegateInvocation\obj\Debug\netcoreapp3.1\DelegateInvocation.csprojAssemblyReference.cache
+C:\Users\aiman.shariff\source\repos\DelegateInvocation\DelegateInvocation\obj\Debug\netcoreapp3.1\DelegateInvocation.AssemblyInfoInputs.cache
+C:\Users\aiman.shariff\source\repos\DelegateInvocation\DelegateInvocation\obj\Debug\netcoreapp3.1\DelegateInvocation.AssemblyInfo.cs
+C:\Users\aiman.shariff\source\repos\DelegateInvocation\DelegateInvocation\obj\Debug\netcoreapp3.1\DelegateInvocation.csproj.CoreCompileInputs.cache
+C:\Users\aiman.shariff\source\repos\DelegateInvocation\DelegateInvocation\bin\Debug\netcoreapp3.1\DelegateInvocation.exe
+C:\Users\aiman.shariff\source\repos\DelegateInvocation\DelegateInvocation\bin\Debug\netcoreapp3.1\DelegateInvocation.deps.json
+C:\Users\aiman.shariff\source\repos\DelegateInvocation\DelegateInvocation\bin\Debug\netcoreapp3.1\DelegateInvocation.runtimeconfig.json
+C:\Users\aiman.shariff\source\repos\DelegateInvocation\DelegateInvocation\bin\Debug\netcoreapp3.1\DelegateInvocation.runtimeconfig.dev.json
+C:\Users\aiman.shariff\source\repos\DelegateInvocation\DelegateInvocation\bin\Debug\netcoreapp3.1\DelegateInvocation.dll
+C:\Users\aiman.shariff\source\repos\DelegateInvocation\DelegateInvocation\bin\Debug\netcoreapp3.1\DelegateInvocation.pdb
+C:\Users\aiman.shariff\source\repos\DelegateInvocation\DelegateInvocation\obj\Debug\netcoreapp3.1\DelegateInvocation.dll
+C:\Users\aiman.shariff\source\repos\DelegateInvocation\DelegateInvocation\obj\Debug\netcoreapp3.1\DelegateInvocation.pdb
+C:\Users\aiman.shariff\source\repos\DelegateInvocation\DelegateInvocation\obj\Debug\netcoreapp3.1\DelegateInvocation.genruntimeconfig.cache
